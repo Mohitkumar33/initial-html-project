@@ -33,7 +33,12 @@ p{
     margin-right: auto;
     margin-top: 20px; 
 }
-
+.container-box {
+    width: 1280px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px; 
+}
 .blog-post {
     background-color: aqua;
     width: 75%;
